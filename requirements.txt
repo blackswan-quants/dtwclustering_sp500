@@ -1,6 +1,7 @@
-yfinance
 pandas
-scikit-learn
 numpy
 matplotlib
 seaborn
+yfinance
+pickle5
+statsmodels
