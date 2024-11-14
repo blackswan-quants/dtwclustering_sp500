@@ -1,1 +1,0 @@
-# dtwclustering_sp500
