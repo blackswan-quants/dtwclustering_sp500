@@ -25,6 +25,17 @@ class DTWClustering:
         seq1: the first time series
         seq2: the second time series
 
+        They have to be a numpy row vector
+
+        If you have a pandas dataframe use the method iloc and after that the
+        method .value that converts the extracted column (which is a Pandas Series) into a NumPy array.
+
+        There must be no missing values ​​or infinite values
+
+        The data inside must be of type float so use the command seq.astype(float)
+
+
+
     Methods:
         euclidean_distance(): Computes the Euclidean distance between the sequences.
         dtw_no_window(): Computes DTW distance without a window constraint.
