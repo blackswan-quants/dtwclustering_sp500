@@ -1,5 +1,5 @@
 from helpermodules.df_dataretrieval import IndexData_Retrieval
-from helpermodules.dtwclustering import DTWClustering
+from helpermodules.DTWclustering import DTWClustering
 import numpy as np
 import pandas as pd
 
