@@ -1,0 +1,1 @@
+df_sp500.getdata()
