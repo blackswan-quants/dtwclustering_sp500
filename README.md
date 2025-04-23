@@ -7,7 +7,7 @@ The goal is twofold:
 1.  Select a small subset (representative cluster) of stocks that best replicates the overall performance of the S&P 500 index.
 2.  Utilize portfolio optimization techniques on this subset to construct an efficient portfolio aimed at reproducing the S&P 500's performance.
 
-The main notebook (`main.ipynb`) guides through the analysis, from data loading to applying DTW clustering and subsequent portfolio optimization.
+The main notebook (`main.ipynb`) inside the "src" fold guides through the analysis, from data loading to applying DTW clustering and subsequent portfolio optimization.
 
 ## Prerequisites
 
@@ -65,7 +65,7 @@ The historical price data for the S&P 500 stocks is provided within the `data/` 
 1.  Ensure you have completed all steps in the **Installation** section.
 2.  Open the project folder in VS Code.
 3.  Verify that the correct Python interpreter (`.venv`) is selected.
-4.  Open the `main.ipynb` notebook.
+4.  Open the `main.ipynb` notebook inside the 'src' folder.
 5.  Run the cells of the notebook in order. The notebook will load the data, perform DTW clustering, select representative stocks, and optimize the portfolio.
 6.  Plots generated during execution will be saved in the `plots/` folder.
 
