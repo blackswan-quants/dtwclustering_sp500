@@ -2,10 +2,11 @@
 
 ## Description
 
-This project applies clustering techniques based on the Dynamic Time Warping (DTW) distance to historical S&P 500 stock index data.
-The goal is twofold:
-1.  Select a small subset (representative cluster) of stocks that best replicates the overall performance of the S&P 500 index.
-2.  Utilize portfolio optimization techniques on this subset to construct an efficient portfolio aimed at reproducing the S&P 500's performance.
+In this study, we present a data-driven methodology for constructing a reduced and efficient portfolio that replicates the S\&P 500 index. Traditional index investing methods typically rely on full replication or market-weighted approaches, which may not be optimal for all investors in terms of accessibility and capital efficiency. 
+
+Our approach leverages time-series clustering techniques to identify groups of stocks with similar historical price behavior. We evaluate and compare different clustering methods—specifically, KMeans with Euclidean distance and hierarchical with Dynamic Time Warping (DTW)—and determine that hierarchical clustering with DTW provides the most meaningful segmentation of assets.
+
+From each cluster, a representative subset of stocks is selected. We then perform a Markowitz's inspired constrained linear optimization to determine the portfolio weights that best emulate the index. The performance of the optimized portfolio is evaluated through backtesting and compared against the S\&P 500. Our results suggest that combining time-series clustering with constrained optimization offers a viable and interpretable framework for index replication with fewer assets.
 
 The main notebook (`main.ipynb`) inside the "src" fold guides through the analysis, from data loading to applying DTW clustering and subsequent portfolio optimization.
 
