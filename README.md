@@ -78,3 +78,7 @@ This project was developed by the BlackSwan Quants team.
 * **[Giulia Talà]**: [https://www.linkedin.com/in/giuliatala/]
 * **[Giacomo Maggiore]**: [https://www.linkedin.com/in/giacomo-maggiore-499994263/]
 * **[Lorenzo Pirozzi]**: [https://www.linkedin.com/in/lorenzo-pirozzi-674b75242/]
+* **[Gloria Desideri]**: [https://www.linkedin.com/in/gloria-desideri/]
+* **[Simone Zani]**: [https://www.linkedin.com/in/simonezani35/]
+* **[Riccardo Polo]**: [https://www.linkedin.com/in/riccardo-polo/]
+
