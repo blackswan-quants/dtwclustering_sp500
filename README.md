@@ -74,11 +74,11 @@ The historical price data for the S&P 500 stocks is provided within the `data/` 
 
 This project was developed by the BlackSwan Quants team.
 
-* **[Nicolò Dal Monte]**: [https://www.linkedin.com/in/nicolò-dal-monte-84606621b]
-* **[Giulia Talà]**: [https://www.linkedin.com/in/giuliatala/]
-* **[Giacomo Maggiore]**: [https://www.linkedin.com/in/giacomo-maggiore-499994263/]
-* **[Lorenzo Pirozzi]**: [https://www.linkedin.com/in/lorenzo-pirozzi-674b75242/]
-* **[Gloria Desideri]**: [https://www.linkedin.com/in/gloria-desideri/]
-* **[Simone Zani]**: [https://www.linkedin.com/in/simonezani35/]
-* **[Riccardo Polo]**: [https://www.linkedin.com/in/riccardo-polo/]
+* **Nicolò Dal Monte**: [https://www.linkedin.com/in/nicolò-dal-monte-84606621b]
+* **Giulia Talà**: [https://www.linkedin.com/in/giuliatala/]
+* **Giacomo Maggiore**: [https://www.linkedin.com/in/giacomo-maggiore-499994263/]
+* **Lorenzo Pirozzi**: [https://www.linkedin.com/in/lorenzo-pirozzi-674b75242/]
+* **Gloria Desideri**: [https://www.linkedin.com/in/gloria-desideri/]
+* **Simone Zani**: [https://www.linkedin.com/in/simonezani35/]
+* **Riccardo Polo**: [https://www.linkedin.com/in/riccardo-polo/]
 
